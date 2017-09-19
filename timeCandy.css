@@ -6,7 +6,7 @@ html,body{
 }
 
 body{
-	background:url('images/backgroundImg.jpg');
+	background:url('./images/backgroundImg.jpg');
 	background-size:100%;
 
 }
